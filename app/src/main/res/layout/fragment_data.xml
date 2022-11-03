@@ -12,6 +12,6 @@
         android:layout_height="wrap_content"
         android:text="@string/hello_blank_fragment"
         android:paddingBottom="?attr/actionBarSize"
-        tools:listitem="@layout/list_data_movie"/>
+        tools:listitem="@layout/list_data_food"/>
 
 </FrameLayout>
